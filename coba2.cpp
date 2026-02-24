@@ -14,4 +14,8 @@ int main(){ //mulai
 
     //Langkah 4
     luas = p * l;
-}
+
+    //Langkah 5
+    cout << "Hasilnya = " << luas << endl;
+    cout << "Thankyou"
+} //selesai
